@@ -1,0 +1,109 @@
+.navbar {
+    background-color: #c6fa56;
+}
+.logo {
+    padding-left: 10p;
+}
+.btn {
+    background-color: green;
+}
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    
+    
+}
+h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    
+}
+h6 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: left;
+    
+}
+.text {
+    position: relative;
+    left: 600px;
+    bottom: 50px;
+    margin: 10px;
+    display: inline-block;
+    top: -500px;
+}
+.nav-item {
+    display: flex;
+    margin: 0;
+    align-items: center;
+    padding-right: 80px;
+  
+    
+}
+.bt1 {
+    position: relative;
+    left: 50px;
+    top: 80px;
+    margin: 0;
+    display: inline-block;
+    padding-left: 60px;
+    
+}
+.logo {
+    padding-left: 120px;
+}
+.card1 {
+    position: relative;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+      
+}
+.card2 {
+    position: relative;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    
+    
+      
+}
+.card3 {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    float: right;
+}
+.width {
+    max-width: 1300px;
+    margin: 0 auto;
+
+}
+#hero {
+    position: sticky;
+}
+#portpolio {
+    background-image: url(bg5.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#certificate {
+    background-image: url(gg.webp);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#services {
+    background-image: url(3bg.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+#footer {
+    background-image: url(Footer-Background-Image.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+
+}
